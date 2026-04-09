@@ -10,6 +10,7 @@
     <a href="#usage">Usage</a> ·
     <a href="#future-features">Future features</a>
   </p>
+  <img src="/logo/wolf.gif" alt="WolfHackChat banner" width="900" />
 </div>
 
 ## Marketing definition (what this app is)
